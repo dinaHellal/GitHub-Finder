@@ -4,7 +4,7 @@
   "theme_color": "#87A2FF",
   "background_color": "#87A2FF",
   "display": "standalone",
-  "orientation": "",
+  "orientation": "any",
   "scope": "/",
   "start_url": "/https://dinahellal.github.io/GitHub-Finder/",
   "icons": [
