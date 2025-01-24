@@ -5,8 +5,9 @@
   "background_color": "#87A2FF",
   "display": "standalone",
   "orientation": "any",
-  "scope": "/",
-  "start_url": "/https://dinahellal.github.io/GitHub-Finder/",
+  "scope": "https://dinahellal.github.io/GitHub-Finder",
+  "start_url": "https://dinahellal.github.io/GitHub-Finder",
+  "id": "https://dinahellal.github.io/GitHub-Finder",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
